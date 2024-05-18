@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <a href="https://app.daily.dev/muthuramanm"><img src="https://api.daily.dev/devcards/0653b6d238d14c57b6c54b5c2feea290.png?r=tng" width="400" alt="Muthu Raman M's Dev Card"/></a>
+-->
+
+<a href="https://app.daily.dev/muthuramanm"><img src="https://api.daily.dev/devcards/v2/UDxxXIb17RdNJqpytj3W5.png?r=zdq" width="356" alt="Muthu Raman M's Dev Card"/></a>
